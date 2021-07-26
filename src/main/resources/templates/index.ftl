@@ -94,7 +94,7 @@
           <li class="one_half">
             <article>
               <h6 class="heading">Я</h6>
-              <p class="nospace">Любовь может изменить человека до неузнаваемости. Ты прекранса и всё что с тобой связано &hellip;</p>
+              <p class="nospace">Любовь может изменить человека до неузнаваемости. Ты прекрасна и всё что с тобой связано &hellip;</p>
             </article>
           </li>
         </ul>
@@ -148,7 +148,7 @@
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.A</p>
-    <p class="fl_right">Не суди строго сделано от души</p>
+    <p class="fl_right">Никто не знает о существование этого сайта кроме тебя</p>
   </div>
 </div>
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
