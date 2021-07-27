@@ -4,10 +4,7 @@ import lombok.AccessLevel;
 import lombok.Data;
 import lombok.experimental.FieldDefaults;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.util.Date;
 
 @Entity
@@ -20,6 +17,7 @@ public class ClientEntity {
     Long id;
 
     String name_of_client;
+    @Column(length = 2000)
     String text_of_client;
     Date send_message_date;
     String ip_address;
