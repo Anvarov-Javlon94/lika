@@ -144,8 +144,8 @@
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">You can send your wishes to the author</h6>
-      <p class="nospace btmspace-15">Just don't judge so hard.</p>
+      <h6 class="heading">Malika, You can send your wishes to the author.</h6>
+      <p class="nospace btmspace-15">He will definitely read it.</p>
       <form action="/sendMessage" method="post">
         <fieldset>
           <legend>Newsletter:</legend>
@@ -156,18 +156,17 @@
       </form>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">Nisi nunc velit aliquam</h6>
+      <h6 class="heading">You turn me inside out</h6>
       <ul class="nospace linklist">
         <li>
           <article>
-            <p class="nospace btmspace-10">Sapien sit amet tortor nulla vulputate odio in varius tristique nisi urna.</p>
-            <time class="block font-xs" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
+            <p class="nospace btmspace-10">I never knew how joyous life could be, until I saw your face</p>
+            <time class="block font-xs" datetime="2021-27-07">Tuesday, 27<sup>th</sup> July 2021</time>
           </article>
         </li>
         <li>
           <article>
-            <p class="nospace btmspace-10">Consequat erat id rutrum nisi magna vel tellus phasellus malesuada bibendum.</p>
-            <time class="block font-xs" datetime="2045-04-05">Thursday, 5<sup>th</sup> April 2045</time>
+            <p class="nospace btmspace-10">You can't deny what's i feel about you.</p>
           </article>
         </li>
       </ul>
