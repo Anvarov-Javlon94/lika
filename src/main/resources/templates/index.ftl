@@ -13,11 +13,6 @@
       <div id="logo" class="fl_left"> 
         <h1><a href="/">Lika</a></h1>
       </div>
-      <nav id="mainav" class="fl_right"> 
-        <ul class="clear">
-          <li class="active"><a href="/">Home</a></li>
-        </ul>
-      </nav>
     </header>
   </div>
 
@@ -144,6 +139,40 @@
       <blockquote>Lika, when you played this song "Birdie" of Hammali & Navai, it was trembling all over my body. It was the most wonderful thing that I have felt in recent years.</blockquote>
     </article>
   </section>
+</div>
+<div class="bgded overlay row4" style="background-image:url('/static/images/demo/backgrounds/hvo0elf.jpg');">
+  <footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div class="one_quarter">
+      <h6 class="heading">You can send your wishes to the author</h6>
+      <p class="nospace btmspace-15">Just don't judge so hard.</p>
+      <form action="/sendMessage" method="post">
+        <fieldset>
+          <legend>Newsletter:</legend>
+          <input class="btmspace-15" type="text" name="name_of_client" placeholder="Name" required>
+          <input class="btmspace-15" type="text" name="text_of_client" placeholder="Text" required>
+          <button type="submit" value="submit">Send to author</button>
+        </fieldset>
+      </form>
+    </div>
+    <div class="one_quarter">
+      <h6 class="heading">Nisi nunc velit aliquam</h6>
+      <ul class="nospace linklist">
+        <li>
+          <article>
+            <p class="nospace btmspace-10">Sapien sit amet tortor nulla vulputate odio in varius tristique nisi urna.</p>
+            <time class="block font-xs" datetime="2045-04-06">Friday, 6<sup>th</sup> April 2045</time>
+          </article>
+        </li>
+        <li>
+          <article>
+            <p class="nospace btmspace-10">Consequat erat id rutrum nisi magna vel tellus phasellus malesuada bibendum.</p>
+            <time class="block font-xs" datetime="2045-04-05">Thursday, 5<sup>th</sup> April 2045</time>
+          </article>
+        </li>
+      </ul>
+    </div>
+  </footer>
 </div>
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
