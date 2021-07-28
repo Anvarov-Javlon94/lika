@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import sqb.uz.marry_me.service.ClientService;
+import sqb.uz.marry_me.service.ClientSimpleService;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -19,9 +20,11 @@ import javax.servlet.http.HttpServletRequest;
 public class MainController {
 
     ClientService clientService;
+    ClientSimpleService clientSimpleService;
 
     @GetMapping("/")
-    public String getMainPage() {
+    public String getMainPage(HttpServletRequest request) {
+        clientSimpleService.addSimpleClient(request);
         return "index";
     }
 
