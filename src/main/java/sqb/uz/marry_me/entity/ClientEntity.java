@@ -21,5 +21,5 @@ public class ClientEntity {
     String text_of_client;
     Date send_message_date;
     String ip_address;
-
+    String user_agent;
 }

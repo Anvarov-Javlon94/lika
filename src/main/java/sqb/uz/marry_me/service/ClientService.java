@@ -24,6 +24,7 @@ public class ClientService {
         clientEntity.setText_of_client(text_of_client);
         clientEntity.setIp_address(request.getRemoteAddr());
         clientEntity.setSend_message_date(date);
+        clientEntity.setUser_agent(request.getHeader("User-Agent"));
         clientRepository.save(clientEntity);
     }
 }
