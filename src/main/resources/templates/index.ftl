@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="">
 <head>
-<title>For Lika</title>
+<title>For Dilnoz</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="/static/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -11,7 +11,7 @@
   <div class="wrapper row1">
     <header id="header" class="hoc clear">
       <div id="logo" class="fl_left"> 
-        <h1><a href="/">Lika</a></h1>
+        <h1><a href="/">Dilnoz</a></h1>
       </div>
     </header>
   </div>
@@ -103,7 +103,7 @@
   <div class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Everyone is the creator of one's own fate</p>
-      <p class="heading underline font-x2">Lika, a day without your laughter is a day wasted</p>
+      <p class="heading underline font-x2">Dilnoz, a day without your laughter is a day wasted</p>
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
@@ -133,10 +133,10 @@
   <section id="testimonials" class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">When you want it, it goes away too fast</p>
-      <p class="heading underline font-x2">Lika, Live without regrets.</p>
+      <p class="heading underline font-x2">Dilnoz, Live without regrets.</p>
     </div>
     <article class="btmspace-80">
-      <blockquote>Lika, when you played this song "Birdie" of Hammali & Navai, it was trembling all over my body. It was the most wonderful thing that I have felt in recent years.</blockquote>
+      <blockquote>Dilnoz, when you asked me if everything is fine, I thought for a moment what you think of me, it was trembling all over my body. It was the most wonderful thing that I have felt in recent years.</blockquote>
     </article>
   </section>
 </div>
@@ -144,7 +144,7 @@
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">Malika, You can send your wishes to the author.</h6>
+      <h6 class="heading">Dilnoz, You can send your wishes to the author.</h6>
       <p class="nospace btmspace-15">He will definitely read it.</p>
       <form action="/sendMessage" method="post">
         <fieldset>
