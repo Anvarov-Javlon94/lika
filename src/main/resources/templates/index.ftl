@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="">
 <head>
-<title>For Dilnoz</title>
+<title>For My Love</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="/static/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
@@ -11,7 +11,7 @@
   <div class="wrapper row1">
     <header id="header" class="hoc clear">
       <div id="logo" class="fl_left"> 
-        <h1><a href="/">Dilnoz</a></h1>
+        <h1><a href="/">Моя Осень</a></h1>
       </div>
     </header>
   </div>
@@ -96,6 +96,17 @@
       </div>
     </section>
     <!-- / main body -->
+    <div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/013.png');">
+      <section id="testimonials" class="hoc container clear">
+        <div class="sectiontitle">
+          <p class="nospace font-xs">Hayotda nimanidir chindan istasang, albatta amalga oshadi</p>
+          <p class="heading underline font-x2">Shoxistaxon, Afsuslarsiz yashagin</p>
+        </div>
+        <article class="btmspace-80">
+          <blockquote>O'sha uchrashuvdagi bir on hech esimdan chiqmidi. Ko'zlarida yoshlari bilan o'tirgan bu ajoyib qizni ko'rib, ko'zlarida cho'kib ketishimga bir soniya qolgandi. Ko'zlaringni tubi ko'rinmasidi go'yo.</blockquote>
+        </article>
+      </section>
+    </div>
     <div class="clear"></div>
   </main>
 </div>
@@ -103,7 +114,7 @@
   <div class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Everyone is the creator of one's own fate</p>
-      <p class="heading underline font-x2">Dilnoz, a day without your laughter is a day wasted</p>
+      <p class="heading underline font-x2">Shoxistaxon, a day without your laughter is a day wasted</p>
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
@@ -129,44 +140,35 @@
     </ul>
   </div>
 </div>
-<div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/013.png');">
-  <section id="testimonials" class="hoc container clear">
-    <div class="sectiontitle">
-      <p class="nospace font-xs">When you want it, it goes away too fast</p>
-      <p class="heading underline font-x2">Dilnoz, Live without regrets.</p>
-    </div>
-    <article class="btmspace-80">
-      <blockquote>Dilnoz, when you asked me if everything is fine, I thought for a moment what you think of me, it was trembling all over my body. It was the most wonderful thing that I have felt in recent years.</blockquote>
-    </article>
-  </section>
-</div>
+
+
 <div class="bgded overlay row4" style="background-image:url('/static/images/demo/backgrounds/hvo0elf.jpg');">
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">Dilnoz, You can send your wishes to the author.</h6>
-      <p class="nospace btmspace-15">He will definitely read it.</p>
+      <h6 class="heading">Shoxistaxon, Ushbu web sahifa egasiga izhor qoldiring</h6>
+      <p class="nospace btmspace-15">U albatta o'qiydi.</p>
       <form action="/sendMessage" method="post">
         <fieldset>
           <legend>Newsletter:</legend>
-          <input class="btmspace-15" type="text" name="name_of_client" placeholder="Name" required>
-          <input class="btmspace-15" type="text" name="text_of_client" placeholder="Text" required>
-          <button type="submit" value="submit">Send to author</button>
+          <input class="btmspace-15" type="text" name="name_of_client" placeholder="Ismingiz" required>
+          <input class="btmspace-15" type="text" name="text_of_client" placeholder="Izhor" required>
+          <button type="submit" value="submit">Jo'natish</button>
         </fieldset>
       </form>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">You turn me inside out</h6>
+      <h6 class="heading">Ichki dunyoimni tubdan o'zgartirding!</h6>
       <ul class="nospace linklist">
         <li>
           <article>
-            <p class="nospace btmspace-10">I never knew how joyous life could be, until I saw your face</p>
-            <time class="block font-xs" datetime="2021-27-07">Tuesday, 27<sup>th</sup> July 2021</time>
+            <p class="nospace btmspace-10">Sani chexrangni ko'rmasimdan, hayot quvonchini bilmagan ekanman</p>
+            <time class="block font-xs" datetime="2021-27-07">Seshanba, 23<sup></sup> Noyabr 2021</time>
           </article>
         </li>
         <li>
           <article>
-            <p class="nospace btmspace-10">You can't deny what's i feel about you.</p>
+            <p class="nospace btmspace-10">Tuyg'ularimni cheklashga urinma.</p>
           </article>
         </li>
       </ul>
@@ -176,7 +178,7 @@
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
     <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.A</p>
-    <p class="fl_right">Никто не знает о существование этого сайта кроме тебя</p>
+    <p class="fl_right">Web Saytni ikktamizdan bo'lak hich kim bilmidi</p>
   </div>
 </div>
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
