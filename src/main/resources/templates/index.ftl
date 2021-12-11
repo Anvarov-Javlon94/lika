@@ -99,11 +99,11 @@
     <div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/013.png');">
       <section id="testimonials" class="hoc container clear">
         <div class="sectiontitle">
-          <p class="nospace font-xs">Hayotda nimanidir chindan istasang, albatta amalga oshadi</p>
-          <p class="heading underline font-x2">Shoxistaxon, Afsuslarsiz yashagin</p>
+          <p class="nospace font-xs">Если ты искренно желаешь, то оно обязательно сбудется</p>
+          <p class="heading underline font-x2">Kamila live without regrets!</p>
         </div>
         <article class="btmspace-80">
-          <blockquote>O'sha uchrashuvdagi bir on hech esimdan chiqmidi. Ko'zlarida yoshlari bilan o'tirgan bu ajoyib qizni ko'rib, ko'zlarida cho'kib ketishimga bir soniya qolgandi. Ko'zlaringni tubi ko'rinmasidi go'yo.</blockquote>
+          <blockquote>I will never forget a moment in that meeting. It was a second before I was drowning in the sight of this wonderful girl sitting with tears in her eyes. It was as if the deep of your eyes was invisible.</blockquote>
         </article>
       </section>
     </div>
@@ -114,7 +114,7 @@
   <div class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Everyone is the creator of one's own fate</p>
-      <p class="heading underline font-x2">Shoxistaxon, a day without your laughter is a day wasted</p>
+      <p class="heading underline font-x2">Kamila, a day without your laughter is a day wasted</p>
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
@@ -146,29 +146,29 @@
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">Shoxistaxon, Ushbu web sahifa egasiga izhor qoldiring</h6>
-      <p class="nospace btmspace-15">U albatta o'qiydi.</p>
+      <h6 class="heading">Камила вы можете оставить свои пожелания автору</h6>
+      <p class="nospace btmspace-15">Он обязательно прочтёт</p>
       <form action="/sendMessage" method="post">
         <fieldset>
           <legend>Newsletter:</legend>
-          <input class="btmspace-15" type="text" name="name_of_client" placeholder="Ismingiz" required>
-          <input class="btmspace-15" type="text" name="text_of_client" placeholder="Izhor" required>
-          <button type="submit" value="submit">Jo'natish</button>
+          <input class="btmspace-15" type="text" name="name_of_client" placeholder="Имя" required>
+          <input class="btmspace-15" type="text" name="text_of_client" placeholder="Пожелание" required>
+          <button type="submit" value="submit">Отправить</button>
         </fieldset>
       </form>
     </div>
     <div class="one_quarter">
-      <h6 class="heading">Ichki dunyoimni tubdan o'zgartirding!</h6>
+      <h6 class="heading">You have radically changed my inner world!</h6>
       <ul class="nospace linklist">
         <li>
           <article>
-            <p class="nospace btmspace-10">Sani chexrangni ko'rmasimdan, hayot quvonchini bilmagan ekanman</p>
-            <time class="block font-xs" datetime="2021-27-07">Seshanba, 23<sup></sup> Noyabr 2021</time>
+            <p class="nospace btmspace-10">I didn’t know the joy of life without seeing your laughter</p>
+            <time class="block font-xs" datetime="2021-27-07">Friday, 10<sup></sup> December 2021</time>
           </article>
         </li>
         <li>
           <article>
-            <p class="nospace btmspace-10">Tuyg'ularimni cheklashga urinma.</p>
+            <p class="nospace btmspace-10">Don’t try to deny my feelings.</p>
           </article>
         </li>
       </ul>
@@ -177,8 +177,8 @@
 </div>
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
-    <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.A</p>
-    <p class="fl_right">Web Saytni ikktamizdan bo'lak hich kim bilmidi</p>
+    <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.B.Sh</p>
+    <p class="fl_right">Об этом сайте знаем только мы с тобой</p>
   </div>
 </div>
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
