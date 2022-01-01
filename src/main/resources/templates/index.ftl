@@ -11,7 +11,7 @@
   <div class="wrapper row1">
     <header id="header" class="hoc clear">
       <div id="logo" class="fl_left"> 
-        <h1><a href="/">Моя Осень</a></h1>
+        <h1><a href="/">Моя Нира</a></h1>
       </div>
     </header>
   </div>
@@ -95,15 +95,16 @@
         </ul>
       </div>
     </section>
+    <br>
     <!-- / main body -->
     <div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/013.png');">
       <section id="testimonials" class="hoc container clear">
         <div class="sectiontitle">
           <p class="nospace font-xs">Если ты искренно желаешь, то оно обязательно сбудется</p>
-          <p class="heading underline font-x2">Kamila live without regrets!</p>
+          <p class="heading underline font-x2">Nira live without regrets!</p>
         </div>
         <article class="btmspace-80">
-          <blockquote>I will never forget a moment in that meeting. It was a second before I was drowning in the sight of this wonderful girl sitting with tears in her eyes. It was as if the deep of your eyes was invisible.</blockquote>
+          <blockquote>Я никогда не забуду эти прекрасные дни, что бог подарил нам провести вместе. Спасибо что ты есть!</blockquote>
         </article>
       </section>
     </div>
@@ -114,7 +115,7 @@
   <div class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Everyone is the creator of one's own fate</p>
-      <p class="heading underline font-x2">Kamila, a day without your laughter is a day wasted</p>
+      <p class="heading underline font-x2">Nira, a day without your laughter is a day wasted</p>
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
@@ -146,7 +147,7 @@
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">Камила вы можете оставить свои пожелания автору</h6>
+      <h6 class="heading">Нира вы можете оставить свои пожелания автору</h6>
       <p class="nospace btmspace-15">Он обязательно прочтёт</p>
       <form action="/sendMessage" method="post">
         <fieldset>
@@ -177,7 +178,7 @@
 </div>
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
-    <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.B.Sh</p>
+    <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.A</p>
     <p class="fl_right">Об этом сайте знаем только мы с тобой</p>
   </div>
 </div>
