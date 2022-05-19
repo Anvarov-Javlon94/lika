@@ -35,5 +35,4 @@ public class MainController {
     clientService.addClientToDateBase(name_of_client, text_of_client, request);
     return "redirect:/";
     }
-
 }
