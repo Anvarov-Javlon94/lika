@@ -18,8 +18,6 @@ import java.util.Date;
 public class ClientService{
 
     final ClientRepository clientRepository;
-//    final MessageSender messageSender;
-//    final SendMessage sendms;
 
     public void addClientToDateBase(String name_of_client, String text_of_client, HttpServletRequest request) {
         ClientEntity clientEntity = new ClientEntity();
@@ -30,9 +28,5 @@ public class ClientService{
         clientEntity.setSend_message_date(date);
         clientEntity.setUser_agent(request.getHeader("User-Agent"));
         clientRepository.save(clientEntity);
-//        sendms.setText("NAME:" + clientEntity.getName_of_client() + " TEXT:" + clientEntity.getText_of_client());
-//        messageSender.sendMessage(
-//                sendms
-//        );
     }
 }

@@ -3,11 +3,13 @@ package sqb.uz.marry_me.controller;
 import lombok.AccessLevel;
 import lombok.RequiredArgsConstructor;
 import lombok.experimental.FieldDefaults;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import sqb.uz.marry_me.repository.ClientRepository;
 import sqb.uz.marry_me.service.ClientService;
 import sqb.uz.marry_me.service.ClientSimpleService;
 
@@ -21,6 +23,7 @@ public class MainController {
 
     ClientService clientService;
     ClientSimpleService clientSimpleService;
+    ClientRepository clientRepository;
 
     @GetMapping("/")
     public String getMainPage(HttpServletRequest request) {
@@ -34,5 +37,10 @@ public class MainController {
                               HttpServletRequest request){
     clientService.addClientToDateBase(name_of_client, text_of_client, request);
     return "redirect:/";
+    }
+
+    @GetMapping("/get-all")
+    public ResponseEntity getAllMessage(){
+        return ResponseEntity.ok(clientRepository.findAll());
     }
 }

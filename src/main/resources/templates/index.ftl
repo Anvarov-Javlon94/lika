@@ -7,11 +7,11 @@
 <link href="/static/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
-<div class="bgded" style="background-image:url('/static/images/demo/backgrounds/01.png');">
+<div class="bgded" style="background-image:url('/static/images/demo/backgrounds/0111.png');">
   <div class="wrapper row1">
     <header id="header" class="hoc clear">
       <div id="logo" class="fl_left"> 
-        <h1><a href="/">Моя Нира</a></h1>
+        <h1><a href="/">Моя Севара</a></h1>
       </div>
     </header>
   </div>
@@ -32,7 +32,7 @@
     <section id="introblocks">
       <ul class="nospace group btmspace-80">
         <li class="one_third first">
-          <figure class="imgover"><img src="/static/images/demo/img_4.jpg" alt="">
+          <figure class="imgover"><img src="/static/images/demo/6.jpg" alt="">
             <figcaption>
               <h6 class="heading">Прочти</h6>
               <div>
@@ -42,7 +42,7 @@
           </figure>
         </li>
         <li class="one_third">
-          <figure class="imgover"><img src="/static/images/demo/img_2.jpg" alt="">
+          <figure class="imgover"><img src="/static/images/demo/5.jpg" alt="">
             <figcaption>
               <h6 class="heading">На век</h6>
               <div>
@@ -52,7 +52,7 @@
           </figure>
         </li>
         <li class="one_third">
-          <figure class="imgover"><img src="/static/images/demo/img_3.jpg" alt="">
+          <figure class="imgover"><img src="/static/images/demo/7.jpg" alt="">
             <figcaption>
               <h6 class="heading">Запомни</h6>
               <div>
@@ -65,7 +65,7 @@
     </section>
     <hr class="btmspace-80">
     <section class="group">
-      <div class="one_half first"><img class="inspace-15 borderedbox" src="/static/images/demo/img_7.jpg" alt=""></div>
+      <div class="one_half first"><img class="inspace-15 borderedbox" src="/static/images/demo/10.jpg" alt=""></div>
       <div class="one_half">
         <ul class="nospace group inspace-15">
           <li class="one_half first btmspace-50">
@@ -97,14 +97,14 @@
     </section>
     <br>
     <!-- / main body -->
-    <div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/013.png');">
+    <div class="wrapper bgded overlay" style="background-image:url('/static/images/demo/backgrounds/2cour.png');">
       <section id="testimonials" class="hoc container clear">
         <div class="sectiontitle">
           <p class="nospace font-xs">Если ты искренно желаешь, то оно обязательно сбудется</p>
-          <p class="heading underline font-x2">Nira live without regrets!</p>
+          <p class="heading underline font-x2">Seva live without regrets!</p>
         </div>
         <article class="btmspace-80">
-          <blockquote>Я никогда не забуду эти прекрасные дни, что бог подарил нам провести вместе. Спасибо что ты есть!</blockquote>
+          <blockquote>Я никогда не забуду этот прекрасный день, что бог подарил нам увидеть друг друга. Спасибо что ты есть!</blockquote>
         </article>
       </section>
     </div>
@@ -115,26 +115,26 @@
   <div class="hoc container clear">
     <div class="sectiontitle">
       <p class="nospace font-xs">Everyone is the creator of one's own fate</p>
-      <p class="heading underline font-x2">Nira, a day without your laughter is a day wasted</p>
+      <p class="heading underline font-x2">Seva, a day without your laughter is a day wasted</p>
     </div>
     <ul class="nospace group team">
       <li class="one_quarter first">
-        <figure><img src="/static/images/demo/img_5.jpg" alt="">
+        <figure><img src="/static/images/demo/1.jpg" alt="">
           <figcaption><strong>If you wish</strong> <em> to be loved, love!</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><img src="/static/images/demo/img_8.jpg" alt="">
+        <figure><img src="/static/images/demo/2.jpg" alt="">
           <figcaption><strong>Never </strong> <em>say never</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><img src="/static/images/demo/img_10.jpg" alt="">
+        <figure><img src="/static/images/demo/4.jpg" alt="">
           <figcaption><strong>World</strong> <em>belongs to the patient..</em></figcaption>
         </figure>
       </li>
       <li class="one_quarter">
-        <figure><img src="/static/images/demo/img_9.jpg" alt="">
+        <figure><img src="/static/images/demo/9.jpg" alt="">
           <figcaption><strong>Nobody's </strong> <em>perfect</em></figcaption>
         </figure>
       </li>
@@ -143,11 +143,11 @@
 </div>
 
 
-<div class="bgded overlay row4" style="background-image:url('/static/images/demo/backgrounds/hvo0elf.jpg');">
+<div class="bgded overlay row4" style="background-image:url('/static/images/demo/backgrounds/hv11o0elf.jpg');">
   <footer id="footer" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="one_quarter">
-      <h6 class="heading">Нира вы можете оставить свои пожелания автору</h6>
+      <h6 class="heading">Сева вы можете оставить свои пожелания автору</h6>
       <p class="nospace btmspace-15">Он обязательно прочтёт</p>
       <form action="/sendMessage" method="post">
         <fieldset>
@@ -164,7 +164,7 @@
         <li>
           <article>
             <p class="nospace btmspace-10">I didn’t know the joy of life without seeing your laughter</p>
-            <time class="block font-xs" datetime="2021-27-07">Friday, 10<sup></sup> December 2021</time>
+            <time class="block font-xs" datetime="2021-27-07">Sunday, 22<sup></sup> May 2022</time>
           </article>
         </li>
         <li>
@@ -178,7 +178,7 @@
 </div>
 <div class="wrapper row5">
   <div id="copyright" class="hoc clear"> 
-    <p class="fl_left">Copyright &copy; 2021 - All Rights Reserved - J.A</p>
+    <p class="fl_left">Copyright &copy; 2022 - All Rights Reserved - J.S</p>
     <p class="fl_right">Об этом сайте знаем только мы с тобой</p>
   </div>
 </div>

@@ -1,5 +1,6 @@
 package sqb.uz.marry_me.entity;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AccessLevel;
 import lombok.Data;
 import lombok.experimental.FieldDefaults;
@@ -19,6 +20,7 @@ public class ClientEntity {
     String name_of_client;
     @Column(length = 2000)
     String text_of_client;
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd HH:mm:ss")
     Date send_message_date;
     String ip_address;
     String user_agent;
